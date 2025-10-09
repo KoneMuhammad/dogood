@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952942368803",
+    "project_id": "dogood-792ee",
+    "storage_bucket": "dogood-792ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952942368803:android:5c2f331f0fdd5df3543996",
+        "android_client_info": {
+          "package_name": "com.eyesgood.dogood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGFmPUt7O9zFJlLBvzwwn1vjzFlDK_AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
