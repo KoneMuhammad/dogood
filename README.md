@@ -1,26 +1,17 @@
 # Do Good App 🌟
 
- what good deed will you do today?
+ android app that gives you deeds to do 
 ---
 
-![do Good app screenshot](assets/do_good.png)
+![do Good app screenshot](assets/do%20good.jpg)
 
 ---
+## features 
 
-## Architecture
-
-- **MVVM** - model view viewmodel
--  **modularized** for reusable components.
-- Dependency Injection with **Hilt**
-
----
-
-## Tests
-
-- Unit tests: `./gradlew testDemoDebug`
-- Instrumented tests: `./gradlew connectedDemoDebugAndroidTest`
-
----
+- Supabase Database 
+- dagger hilt (dependancy injection)
+- jetpack compose  
+- mvvm architecure
 
 ## Check It Out
 
